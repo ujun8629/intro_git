@@ -3,7 +3,8 @@ Gitの練習をしていきます．
 こんな感じでね．
 ・git add
 ・git commit
-・git rm 
+・git rm
+・git status
 L1 変更内容のようやく
 L2 空白
 L3　変更した理由
