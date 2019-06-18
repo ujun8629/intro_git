@@ -5,6 +5,7 @@ Gitの練習をしていきます．
 ・git commit
 ・git rm
 ・git status
+・git diff
 L1 変更内容のようやく
 L2 空白
 L3　変更した理由
